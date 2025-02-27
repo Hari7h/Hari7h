@@ -17,11 +17,6 @@
 
 ---
 
-### 🤝 Let’s Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/shivani-gupta-69496a127/) | 📩 [Email Me](shivanigupta2137@gmail.com) | 🌐 [Portfolio]()  
-
-🚀 **Open to QA Analyst & Business Analyst opportunities!**
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -55,4 +50,9 @@
 </div>
 
 ###
+
+### 🤝 Let’s Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivani-gupta-69496a127/) | 📩 [Email Me](mailto:shivanigupta2137@gmail.com) | 🌐 [Portfolio]()  
+
+🚀 **Open to QA Analyst & Business Analyst opportunities!**
 
