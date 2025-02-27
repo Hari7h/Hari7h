@@ -3,19 +3,19 @@
 
 
 🔹 **QA Engineer ➔ Future AI/Business Analyst**  
-🔹 **5+ years** of ensuring software quality at **HCL Tech** with expertise in **manual & functional testing**  
+🔹 **5+ years** of ensuring software quality at **HCL Tech** with expertise in **manual & automation testing**  
 🔹 Passionate about **data-driven decision-making** and unlocking insights with **SQL, Excel, Tableau, and Power BI**  
 🔹 Strong analytical mindset, eager to **bridge the gap between data and business impact**  
 
 ---
 
 ### 🛠️ My Skill Stack  
-✅ **Software Testing:** Test Planning | Execution | Defect Management | Regression Testing  
+✅ **Software Testing:** Selenium | Python | Test Planning | Execution | Defect Management | Regression Testing 
 ✅ **Data Analysis:** Data Visualization |  Research & Insights  
-✅ **Business Analysis:** Product Documentation | Data-Driven Decision Making 
-✅ **Tools & Tech:** SQL | Excel | Tableau | Power BI | JIRA | Confluence  
+✅ **Business Analysis:**  Requirement Gathering | Process Documentation | Data-Driven Decision Making | Agile Methodologies  
+✅ **Tools & Tech:** SQL | Tableau | Power BI | JIRA | Confluence  
 
-💡 Currently upskilling in **Data Analytics & Business Intelligence** to transition into **Data & Business Analysis** roles.  
+💡 Currently upskilling in **Business Analytics** to transition into **Analytics & Business Analysis** roles.  
 
 ---
 
