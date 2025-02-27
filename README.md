@@ -1,6 +1,6 @@
 ###
 <h1 align="center"> 🚀 Hello, I'm Shivani Gupta! </h1>
-###
+
 
 🔹 **QA Engineer ➔ Future AI/Business Analyst**  
 🔹 **5+ years** of ensuring software quality at **HCL Tech** with expertise in **manual & functional testing**  
