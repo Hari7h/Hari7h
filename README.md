@@ -3,7 +3,7 @@
 
 
 🔹 **QA Engineer ➔ Future AI/Business Analyst**  
-🔹 **5+ years** of ensuring software quality at **HCL Tech** with expertise in **manual & automation testing**  
+🔹 **7+ years of experience** in Software Quality Assurance, specializing in manual testing, test automation, API testing, and end-to-end quality engineering across web and mobile applications.  
 🔹 Passionate about **data-driven decision-making** and unlocking insights with **SQL, Excel, Tableau, and Power BI**  
 🔹 Strong analytical mindset, eager to **bridge the gap between data and business impact**  
 
