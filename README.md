@@ -2,15 +2,20 @@
 <h1 align="center"> 🚀 Hello, I'm Shivani Gupta! </h1>
 
 
-🔹 **QA Engineer ➔ Future AI/Business Analyst**  
-🔹 **7+ years of experience** in Software Quality Assurance, specializing in manual testing, test automation, API testing,      and end-to-end quality engineering across web and mobile applications.  
-🔹 Passionate about **data-driven decision-making** and unlocking insights with **SQL, Excel, Tableau, and Power BI**  
-🔹 Strong analytical mindset, eager to **bridge the gap between data and business impact**  
+### Quality Assurance Engineer | Manual Testing | Automation Testing | API Testing
+
+## 👨‍💻 Profile
+
+Experienced **Software Test Engineer with 7+ years of experience** in delivering high-quality software solutions across web, mobile, and API platforms. Skilled in functional, regression, integration, smoke, cross-browser, and API testing.
+
+Experienced in test planning, test case design, defect management, and regression automation using tools such as Selenium, Java, Postman, and Virtuoso QA. Proficient in Agile methodologies, SDLC, STLC, and collaborating with cross-functional teams to ensure reliable releases.
+
+Passionate about improving testing processes, identifying defects early, enhancing product quality, and delivering seamless user experiences.
 
 ---
 
 ### 🛠️ My Skill Stack  
-✅ **Software Testing:** Selenium | Python | Test Planning | Execution | Defect Management | Regression Testing 
+✅ **Software Testing:** Selenium | Python | Test Planning | Execution | Defect Management | Regression Testing |  Root         Cause Analysis
 ✅ **Data Analysis:** Data Visualization |  Research & Insights  
 ✅ **Business Analysis:**  Requirement Gathering | Process Documentation | Data-Driven Decision Making | Agile Methodologies  
 ✅ **Tools & Tech:** SQL | Tableau | Power BI | JIRA | Confluence  
