@@ -15,8 +15,7 @@ Passionate about improving testing processes, identifying defects early, enhanci
 ---
 
 ### 🛠️ My Skill Stack  
-✅ **Software Testing:** Selenium | Python | Test Planning | Execution | Defect Management | Regression Testing |  Root         Cause Analysis
-
+✅ **Software Testing:** Selenium | Python | Test Planning | Execution | Defect Management | Regression Testing |  Root           Cause Analysis
 ✅ **Data Analysis:** Data Visualization |  Research & Insights  
 ✅ **Business Analysis:**  Requirement Gathering | Process Documentation | Data-Driven Decision Making | Agile Methodologies  
 ✅ **Tools & Tech:** SQL | Tableau | Power BI | JIRA | Confluence  
