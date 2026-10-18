@@ -16,23 +16,79 @@ Passionate about improving testing processes, identifying defects early, enhanci
 
 ### 🛠️ My Skill Stack  
 ### 🧪 Software Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-6A5ACD?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-198754?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-FF8C00?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-607D8B?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-7952B3?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-009688?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-34495E?style=for-the-badge)
+![Cross Browser Testing](https://img.shields.io/badge/Cross--Browser%20Testing-DB4437?style=for-the-badge)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-00796B?style=for-the-badge)
 
-`Test Planning` · `Test Execution` · `Regression Testing` · `Defect Management` · `Root Cause Analysis`
+- Test Planning & Test Case Design
+- Test Execution & Regression Suites
+- Bug Tracking & Defect Management
+- Root Cause Analysis & Defect Reporting
 
 ### 📊 Data Analysis
-`Data Visualization` · `Research & Insights` · `Data Interpretation`
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1565C0?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-00897B?style=for-the-badge)
+
+- Data Interpretation
+- Test Result Analysis
+- Defect Trend Analysis
+- Root Cause Analysis
+- Requirement Analysis
 
 ### 💡 Business Analysis
-`Requirement Gathering` · `Process Documentation` · `Data-Driven Decision Making` · `Agile Methodologies`
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-6C3483?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Methodology-2496ED?style=for-the-badge)
+
+- Business Requirement Analysis
+- BRD / SRD Analysis
+- Requirement Gathering
+- User Story Analysis
+- Impact Analysis
+- Stakeholder Communication
+- Agile Collaboration
+- Sprint Planning & Backlog Grooming
 
 ### 🛠️ Tools & Technologies
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Automation & Programming**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**API & Test Management**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
+![Virtuoso QA](https://img.shields.io/badge/Virtuoso%20QA-6554C0?style=for-the-badge)
+![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-3DDC84?style=for-the-badge&logo=saucelabs&logoColor=black)
+
+**Version Control & CI/CD**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Development Tools & Methodologies**
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-7952B3?style=for-the-badge)
+
+- Software Development Life Cycle (SDLC)
+- Software Testing Life Cycle (STLC)
+  
 💡 Currently upskilling in **Business Analytics** to transition into **Analytics & Business Analysis** roles.  
 
 ---
