@@ -15,11 +15,24 @@ Passionate about improving testing processes, identifying defects early, enhanci
 ---
 
 ### 🛠️ My Skill Stack  
-✅ **Software Testing:** Selenium | Python | Test Planning | Execution | Defect Management | Regression Testing |  Root           Cause Analysis
-✅ **Data Analysis:** Data Visualization |  Research & Insights  
-✅ **Business Analysis:**  Requirement Gathering | Process Documentation | Data-Driven Decision Making | Agile Methodologies  
-✅ **Tools & Tech:** SQL | Tableau | Power BI | JIRA | Confluence  
+### 🧪 Software Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+`Test Planning` · `Test Execution` · `Regression Testing` · `Defect Management` · `Root Cause Analysis`
+
+### 📊 Data Analysis
+`Data Visualization` · `Research & Insights` · `Data Interpretation`
+
+### 💡 Business Analysis
+`Requirement Gathering` · `Process Documentation` · `Data-Driven Decision Making` · `Agile Methodologies`
+
+### 🛠️ Tools & Technologies
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 💡 Currently upskilling in **Business Analytics** to transition into **Analytics & Business Analysis** roles.  
 
 ---
