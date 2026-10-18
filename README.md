@@ -2,7 +2,7 @@
 <h1 align="center"> 🚀 Hello, I'm Shivani Gupta! </h1>
 
 
-### Quality Assurance Engineer | Manual Testing | Automation Testing | API Testing
+### Quality Assurance Engineer
 
 ## 👨‍💻 Profile
 
